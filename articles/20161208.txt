@@ -1,0 +1,5 @@
+<h1>Python hacks: PyMem_Malloc</h1>
+
+Vladimir Maragonzov
+
+Python will make a big memory block, not malloc use C malloc for each object.
